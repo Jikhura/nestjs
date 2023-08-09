@@ -1,4 +1,4 @@
-<h3 align="center"> Test NestJS  Mongo</h3>
+<h3 align="center">Test NestJS</h3>
 
 ## Stack
 - NestJS [Link to Doc](https://docs.nestjs.com)
